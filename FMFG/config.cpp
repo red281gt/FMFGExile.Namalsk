@@ -3840,6 +3840,8 @@ class CfgTraderCategories
 			"Exile_Car_Offroad_Armed_Guerilla01",
 			"Exile_Car_Strider",
 			"Exile_Car_Hunter",
+			"B_MRAP_01_hmg_F",
+			"O_MRAP_02_hmg_F",
 			"Exile_Car_Ifrit"
 		};
 	};
